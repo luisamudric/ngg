@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-# The project description from my lecturer:
+# The requirements:
 
 Write a script for a number guessing game. The player should have ten 
 attempts to guess the number correctly before the game ends. 
